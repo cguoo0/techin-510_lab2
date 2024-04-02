@@ -2,8 +2,11 @@
 
 A data analysys
 
-## GGetting started
+## Getting started
 ```
 python -m venv venv
 source venv/
 ```
+
+## What I learned
+- change Delimiters in panda chart to comma
