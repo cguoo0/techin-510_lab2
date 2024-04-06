@@ -2,11 +2,9 @@
 This Lab2 is a practice of using Streamlit to analyze and vsualize data.
 
 ## Overview
-```
 Air quality is an emerging issue that poses a significant threat to our health. In this project, I have visualized air quality data from around the world to offer a comprehensive overview of the global air quality landscape. 
 To facilitate user interaction and enable specific inquiries, I've incorporated multiple filters such as sliders, toggles, and dropdown menus, allowing users to narrow down their search to a particular country easily. 
 Additionally, the application features a map and displays various types of pollutants, enhancing the understanding of air quality dynamics and its implications on public health.
-```
 
 ## Getting started
 ```
