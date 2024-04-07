@@ -21,7 +21,7 @@ st.write("Additionally, the application features a map and displays various type
 st.divider()
 
 # Assuming the file path is correct and the CSV format is valid
-df = pd.read_csv("/Users/guochenxi/Desktop/techin510_lab 2/openaq.csv", sep=';')
+df = pd.read_csv("openaq.csv", sep=';')
 
 # Slider for selecting a range of air quality values
 min_value, max_value = st.slider(
